@@ -5,3 +5,5 @@ The three sensors that are found on the sphere bolt are compass sensor, ambient 
 The sphere bolt compass sensor functions by using a magnetometer. This allows the sphere to know it location once placed on earth (the floor). Basically the magnetometer is desgined to measure the magnetism of earth. Then once the measure of magnetic field helps to identify the magnetic north. This is why we can use BOLT as a compass. 
 # September 11, 2024 
 Well in the lesson it was kinda confusing but once I read it made sense. Indeed I did encounter some challenges while following the steps from the lesson. Due to running into some bugs since I put the wrong code in such as await roll code. I probably misunderstood what the lesson wanted me to do since I needed to copy and paste since I didnt know how but my partner helped. 
+# September 17, 2024
+This is a free week. 
