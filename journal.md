@@ -12,7 +12,7 @@ How does precision affect the outcome of a program? Precision affects the outcom
 # September 30, 2024
 One daily activty that is consistent within my daily routine is watching netflix while doing homework. Computer science impacts my life indirectly because there are codes behind the app netflix to watch movies within the app itself. My daily life would be horrible since I love netflix so therefore I need to go on it in order to relax. To summarize computer science is everywhere in my daily routine, Im a screen addict so it affects me very significantly. 
 # October 7, 2024 
-Job Title: What is the job or career path you researched?
+Job Title: What is the job or career path you researched? A career path that I reasearched is Software engineer typically include designing, de
 Job Description: What are the main responsibilities or tasks for this role?
 Skills Required: What programming languages, tools, or skills are important for this position?
 Education and Experience: What level of education or experience is typically needed for this role?
