@@ -12,9 +12,9 @@ How does precision affect the outcome of a program? Precision affects the outcom
 # September 30, 2024
 One daily activty that is consistent within my daily routine is watching netflix while doing homework. Computer science impacts my life indirectly because there are codes behind the app netflix to watch movies within the app itself. My daily life would be horrible since I love netflix so therefore I need to go on it in order to relax. To summarize computer science is everywhere in my daily routine, Im a screen addict so it affects me very significantly. 
 # October 7, 2024 
-Job Title: What is the job or career path you researched? A career path that I reasearched is Software engineer typically include designing, de
-Job Description: What are the main responsibilities or tasks for this role?
-Skills Required: What programming languages, tools, or skills are important for this position?
-Education and Experience: What level of education or experience is typically needed for this role?
-Career Growth: What opportunities for growth or advancement are available in this career?
-Reflection: How does this job align with your interests and goals in computer science?
+Job Title: What is the job or career path you researched? A career path that I reasearched is Software engineer.
+Job Description: What are the main responsibilities or tasks for this role? A software engineer typically include designing, developing, and maintaiing software applications. In this position you would collaborate with cross functional teams to define and implement new features, troubleshoot and debug software issues. Also and write and ensure to maintain technical documentation. 
+Skills Required: What programming languages, tools, or skills are important for this position? To succeed as a Software engineer it is important to be proficent in several programing languages such as Java, Python, and java script, etc. Aditionally, knowing how to use the tools like Git, Docker, and jenkins is essential in this career. Also skills like problem solving and anayltical thinking is required as well as the knowledge of software methodologies. 
+Education and Experience: What level of education or experience is typically needed for this role? To become a Software Engineer a bachelor degree in Computer Science, Software Engineer, or etc are required. Gaining practical experience through interships can be an advantage. 
+Career Growth: What opportunities for growth or advancement are available in this career? For most Software Engineer there are numerous oppurtunities for growth and advancement within this position. Such as professionals can move up to roles like Senior Software Engineer or Technical lead. However some may transition to artifical intelligence or Dev0ps. 
+Reflection: How does this job align with your interests and goals in computer science. This job alligns with my interest and goals in computer science because I like problem solving and I wish to contribute to technological solutions that have a positive impact. Also its something different that I wish to learn. 
