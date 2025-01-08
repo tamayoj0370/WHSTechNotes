@@ -37,3 +37,10 @@ Recent advancements in artificial intelligence (AI) and machine learning (ML) ha
 To me, “brain rot” perfectly describes that drained, foggy feeling after spending too much time scrolling through pointless content. This year, I’ve felt both the good and bad sides of digital media. On one hand, it keeps me connected and entertained, but on the other, it’s easy to get stuck in a cycle of watching or reading things that feel like a waste of time. The word “slop” hits home because so much of what I see online, especially the AI-generated stuff, feels repetitive or low effort. But then there’s “lore,” which reminds me of how technology can also bring out creativity and community, like in fandoms or storytelling spaces. I think it’s possible to balance meaningful engagement with technology while avoiding brain rot, but it takes effort—like being intentional about what I consume and setting limits on how much time I spend online.
 # December 16, 2024
 OF COURSE IM EXICTED FOR WINTETBREAK BUT NOT FOR THESE TEST. 
+# January 8, 2025
+# Looking Back:
+Last semester, I really enjoyed the interactive projects, especially those that involved creativity and problem-solving, like Minecraft coding. It was fun and made learning feel more engaging. Also, I appreciated the snacks you provided—they added a nice, welcoming touch to the class. One area for improvement might be incorporating more hands-on activities or group work to encourage collaboration.
+# Looking Ahead:
+This semester, I’d love to explore more topics related to game design and coding, especially with Minecraft or similar platforms. It would also be exciting to dive deeper into real-world applications of coding, like creating small projects we could showcase. More fun, interactive activities or creative challenges would be great!
+# Certifications:
+I’m interested in pursuing at least one certification, probably in Python or something tech-related. Having structured resources like practice tests, tutorials, or guided study sessions would really help me feel more prepared to achieve this goal.
