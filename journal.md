@@ -38,11 +38,11 @@ To me, “brain rot” perfectly describes that drained, foggy feeling after spe
 # December 16, 2024
 OF COURSE IM EXICTED FOR WINTETBREAK BUT NOT FOR THESE TEST. 
 # January 8, 2025
-# Looking Back:
+## Looking Back:
 Last semester, I really enjoyed the interactive projects, especially those that involved creativity and problem-solving, like Minecraft coding. It was fun and made learning feel more engaging. Also, I appreciated the snacks you provided—they added a nice, welcoming touch to the class. One area for improvement might be incorporating more hands-on activities or group work to encourage collaboration.
-# Looking Ahead:
+## Looking Ahead:
 This semester, I’d love to explore more topics related to game design and coding, especially with Minecraft or similar platforms. It would also be exciting to dive deeper into real-world applications of coding, like creating small projects we could showcase. More fun, interactive activities or creative challenges would be great!
-# Certifications:
+## Certifications:
 I’m interested in pursuing at least one certification, probably in Python or something tech-related. Having structured resources like practice tests, tutorials, or guided study sessions would really help me feel more prepared to achieve this goal.
 # January 13, 2025
 The tech industry’s shift toward prioritizing AI skills over traditional roles shows how much the job market is changing. I believe that this shift has it pros and cons.The pros AI tools can enhance opportunities by creating jobs focused on innovation and advanced problem-solving. The cons are that they may limit opportunities for workers in traditional roles especially those who lack AI-related skills. To prepare for a career in such a fast-changing field that is constantly evolving. I would focus on learning AI technologies like machine learning and natural language processing while also strengthening soft skills like creativity and communication. Combining technical knowledge with human centered abilities is key to staying competitive and thriving in this new landscape. Also its essential to the medical field. 
