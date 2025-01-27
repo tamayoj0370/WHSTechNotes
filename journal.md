@@ -51,7 +51,9 @@ Government intervention has a significant impact on technology companies and the
 
 If I were a developer at TikTok, I would implement a feature that provides users with complete transparency regarding how their data is stored and shared. For example, a “Data Dashboard” within the app could allow users to see where their data is stored, who has access to it, and the option to delete specific data points. This feature would address privacy concerns and show that TikTok is taking user data seriously. From this situation, I’ve learned the importance of incorporating privacy and security considerations early in app development. Applying these principles to my projects would not only align with ethical software development but also build trust with users, ensuring the longevity and reliability of the product.
 # January 27, 2025 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Name      | Car | Mistake     |
+| :---        |    :----:   |          ---: |
+| Jimmy      | Title       | Here's this   |
+| Kayla   | Text        | And more      |
+| Bart   | Text        | And more      |
+| Harrison   | Text        | And more      |
