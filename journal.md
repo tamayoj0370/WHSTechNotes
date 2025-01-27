@@ -50,3 +50,8 @@ The tech industry’s shift toward prioritizing AI skills over traditional roles
 Government intervention has a significant impact on technology companies and their users by shaping how platforms operate and how accessible they remain. In TikTok’s case, the potential ban due to national security concerns shows how governments prioritize data privacy and national security over free access to global platforms. For users, this can mean losing access to a platform they enjoy, while for companies, it might require major changes, such as storing data locally or even restructuring ownership, to meet regulatory requirements. This situation highlights the delicate balance between innovation and compliance with government regulations.
 
 If I were a developer at TikTok, I would implement a feature that provides users with complete transparency regarding how their data is stored and shared. For example, a “Data Dashboard” within the app could allow users to see where their data is stored, who has access to it, and the option to delete specific data points. This feature would address privacy concerns and show that TikTok is taking user data seriously. From this situation, I’ve learned the importance of incorporating privacy and security considerations early in app development. Applying these principles to my projects would not only align with ethical software development but also build trust with users, ensuring the longevity and reliability of the product.
+# January 27, 2025 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
