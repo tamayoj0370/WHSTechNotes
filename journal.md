@@ -53,7 +53,7 @@ If I were a developer at TikTok, I would implement a feature that provides users
 # January 27, 2025 
 | Name      | Car | Mistake     |
 | :---        |    :----:   |          ---: |
-| Jimmy      | Title       | Here's this   |
-| Kayla   | Text        | And more      |
-| Bart   | Text        | And more      |
-| Harrison   | Text        | And more      |
+| Jimmy      | Honda Civic       | Hole in the gas tank   |
+| Kayla   | Sierra        | Left the oil cap off      |
+| Bart   | IDK        | Stains on the carpet      |
+| Harrison   | Forester        | IDk     |
