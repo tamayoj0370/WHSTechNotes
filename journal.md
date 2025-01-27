@@ -54,6 +54,6 @@ If I were a developer at TikTok, I would implement a feature that provides users
 | Name      | Car | Mistake     |
 | :---        |    :----:   |          ---: |
 | Jimmy      | Honda Civic       | Hole in the gas tank   |
-| Kayla   | Sierra        | Left the oil cap off      |
-| Bart   | IDK        | Stains on the carpet      |
-| Harrison   | Forester        | IDk     |
+| Kayla   | Sierra        | Fixed Wronged Problem      |
+| Bart   | Corolla        | Left stains on the carpet      |
+| Harrison   | Forester        | Left the oil cap off     |
