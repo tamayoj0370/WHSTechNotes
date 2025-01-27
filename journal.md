@@ -53,7 +53,7 @@ If I were a developer at TikTok, I would implement a feature that provides users
 # January 27, 2025 
 | Name      | Car | Mistake     |
 | :---        |    :----:   |          ---: |
-| Jimmy      | Honda Civic       | Hole in the gas tank   |
+| Jimmy      | Honda Civic       | Drilled Hole in the gas tank   |
 | Kayla   | Sierra        | Fixed Wronged Problem      |
 | Bart   | Corolla        | Left stains on the carpet      |
 | Harrison   | Forester        | Left the oil cap off     |
