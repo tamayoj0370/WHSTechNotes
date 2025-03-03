@@ -71,3 +71,11 @@ I learned that you cant trust no one.
 Technology can serve as a vital bridge between generations by helping educators and service providers stay updated on evolving youth slang. AI-powered language translation tools, online slang dictionaries, and even social media trend trackers can provide real-time insights into how young people communicate. Educational apps or AI chatbots integrated with slang recognition could help professionals decode informal language while maintaining the context and intent of conversations. However, these tools must be designed with cultural sensitivity in mind, ensuring that slang is understood within its proper social and linguistic framework rather than misinterpreted or stripped of its nuance. By leveraging technology responsibly, educators can foster stronger connections with students while avoiding generational misunderstandings.
 
 Despite the potential benefits, integrating slang translation into educational settings presents challenges. A major concern is maintaining professionalism while respecting youth culture—some slang terms may carry connotations that are inappropriate for formal environments, making it difficult to determine what should be acknowledged versus discouraged. Additionally, language evolves so quickly that any formal attempt to track and teach slang may become outdated or even feel forced, potentially alienating students rather than engaging them. Misunderstandings of slang can also create unintended conflicts; for example, a counselor misinterpreting a term might dismiss a student’s concerns or escalate a situation unnecessarily. Instead of rigidly formalizing slang education, schools and youth organizations should encourage open dialogue where both educators and students can share language organically, using technology as a support tool rather than a strict translator.
+# March 3, 2025
+| Name      | Power | Challenge      |
+| :---        |    :----:   |          ---: |
+| Zara      | Invisibility       | Extract Prisoner  |
+| Aether   | Telekinesis        | Secure Building     |
+| Thorne   | Mind Control        | Retrieve Stolen Goods     |
+| Silver   | Wheather Manipulation        | Prevent assaination    |
+| Trangier   | Shapeshifting        | Underwater Rescue    |
