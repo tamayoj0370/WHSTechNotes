@@ -97,3 +97,9 @@ The best part for me would be if the AI told me what I need to work on and gave 
 Florida’s new law banning student cell phone use during the entire school day and blocking access to social media on school Wi-Fi has both good and bad sides. On one hand, I think the ban could help students focus better in class since phones can be a huge distraction. It might also lower the chances of cyberbullying during school hours. Without constant access to apps, students might pay more attention in class and even talk to each other more in person. It could make classrooms quieter and more focused, which can help both students and teachers.
 
 On the other hand, I think there are some real downsides. If there’s an emergency, it could be harder for students to reach their parents quickly. Also, not being able to use your own phone at all during school feels a bit strict. It takes away students’ ability to manage their own time and responsibilities. If my school were to adopt these same rules, I’d probably be frustrated at first. I use my phone during lunch and in the hallway to check in with family or take a break. While I understand the reasoning, I’d prefer a policy that allows limited use during non-class times.
+# April 28, 2025
+| Name      | Flavor | Occasion    | | Price    |
+| :---        |    :----:   |          ---: |  |          ---: |
+| Sally      | Title       | Here's this   | | Here's this   |
+| Micheal   | Text        | And more      | | Here's this   |
+| Emma   | Text        | And more      | | Here's this   |
