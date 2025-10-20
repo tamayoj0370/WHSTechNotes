@@ -124,3 +124,9 @@ If i was the one in charge deciding in schools wether ai tools can be blocked my
 # October 14, 2025
 https://www.canva.com/design/DAG1ym64c9w/XKwFRVb3XB5MvrTBXRHedA/edit?utm_content=DAG1ym64c9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 The poster was designed to be able to communicate the importance of wearable health monitor access for doctors. Canva AI effectively transformed the prompt into a clean professional design that balanced information also with engagement. The clickable icons and animated chart worked best, helping viewers connect data with real-world healthcare applications. AI didnt really have a  quiz and scenario. But overall yhe tone successfully conveyed innovation and professionalism. If I were to improve the design next time I would be more detailed and add like statsitics also provide insight on a doctor using these monitors.
+# October 20, 2025
+| Name      | Class | Seat     |
+| :---        |    :----:   |          ---: |
+| Franklin      | Title       | Here's this   |
+| Hardeep   | Text        | And more      |
+| Maria   | Text        | And more      |
