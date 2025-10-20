@@ -127,6 +127,6 @@ The poster was designed to be able to communicate the importance of wearable hea
 # October 20, 2025
 | Name      | Class | Seat     |
 | :---        |    :----:   |          ---: |
-| Franklin      | Title       | Here's this   |
-| Hardeep   | Text        | And more      |
-| Maria   | Text        | And more      |
+| Franklin      | 91A       | Second class   |
+| Hardeep   | 61F        | Third class     |
+| Maria   | 35B        | First class     |
