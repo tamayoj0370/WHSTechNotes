@@ -130,3 +130,6 @@ The poster was designed to be able to communicate the importance of wearable hea
 | Franklin      | 91A       | Second class   |
 | Hardeep   | 61F        | Third class     |
 | Maria   | 35B        | First class     |
+# October 27, 2025
+Technology plays an essential role in all phases of a natural disaster, from prediction to recovery. Before a disaster strikes, early warning systems powered by satellite data and AI can provide crucial time for preparation. During the event, mobile communication and real-time mapping keep people safe and informed. In the aftermath, drones and specialized apps assist with search, rescue, and recovery. Therefore a app or some sort of device should be made to help individuals during the crisis since the towers can be blocking calls this device can be set of and send their location to local authroties for help.
+
