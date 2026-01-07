@@ -144,3 +144,5 @@ As the world continues to evolve so is the delivery of packages. Now we have inc
 Well obviously the car is gonna have to be programmed by a code so therefore they may be an error the in the code which is why the self driving car failed to stop. The car is confused and doesn not know what to do which is why it keeps on driving. Definetly the car has a flaw in its sytem its not the car fault but the programer fault because there the ones who input the codes which is why its failing. The Waymo team should have better safety features inplemented because safety should be top priority for the passanger and those who are around the vehicle. If I was on the team I would add a feature which involves sensors all around the car which notfies the car to stop when a pedestrian is near and make the sensors to detect more than 10 feet as a safety percaution. 
 # December 15, 2025
 I am excited to eat some birria tacos over break.
+# January 6, 2025
+Over break I used technology everyday. Whether its using the tv or calling people. Also I used tech to play video games. And I used it to learned to crochet new plushies like on media such like youtube or tiktok.
