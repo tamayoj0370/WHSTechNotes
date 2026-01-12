@@ -146,3 +146,4 @@ Well obviously the car is gonna have to be programmed by a code so therefore the
 I am excited to eat some birria tacos over break.
 # January 6, 2025
 Over break I used technology everyday. Whether its using the tv or calling people. Also I used tech to play video games. And I used it to learned to crochet new plushies like on media such like youtube or tiktok.
+# January 12, 2026 
