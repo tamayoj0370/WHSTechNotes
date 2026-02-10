@@ -156,3 +156,7 @@ How can things like loud conversations, strong smells, or distracting behavior a
 What are some reasonable expectations for professional behavior in shared spaces? The reasonanle expectations are that clean envioroment, respect others and their space.
 Why is self-regulation (controlling your voice, reactions, and behavior) an important skill for school and future workplaces? Self regulation is important because it sets you up for sucess. 
 What is one habit—related to hygiene, communication, or behavior—you can improve to be more respectful of shared spaces? Smell nice!
+# February 10, 2026 
+1. Yeah I neither dont dislike it or favor It. I prefer to watch the live football games in person.
+2. OFC! i watched the superbowl. I needed to watch bad bunny half time show.
+3. Loved the half time show but one thing that caught me offguard was lady gaga. 
