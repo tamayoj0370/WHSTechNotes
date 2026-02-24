@@ -162,3 +162,5 @@ What is one habit—related to hygiene, communication, or behavior—you can imp
 1. Yeah I neither dont dislike it or favor It. I prefer to watch the live football games in person.
 2. OFC! i watched the superbowl. I needed to watch bad bunny half time show.
 3. Loved the half time show but one thing that caught me offguard was lady gaga. 
+# February 23, 2026 
+The technology that had the biggest impact was the high-speed timing systems because it ensured the fairness and performance of each player. Such for snowboarding this allows each altethic to record their time efficiently. This technology improved the sport by eliminating human error by transitioning to technology. 
