@@ -173,6 +173,7 @@ Experience Required: 2+ years of professional software development experience.
 Skills / Tools / Languages: Java, Python, Go, Microservices (RESTful APIs), SQL/NoSQL, and Cloud platforms (Google Cloud Platform or AWS).
 Certifications (if any): None required, but cloud certifications (GCP) are a plus.
 What the job does: This role builds and maintains the scalable backend systems that power the H-E-B mobile app and website, ensuring customers can order groceries and manage coupons seamlessly. 
+
 Job #2
 Company: Booz Allen Hamilton
 Job Title: Cybersecurity Analyst 
@@ -182,4 +183,4 @@ Skills / Tools / Languages: Network security monitoring, Wireshark, Splunk, Linu
 Certifications (if any): CompTIA Security+ (Required for DoD 8570 compliance).
 What the job does: This position protects government and defense networks by monitoring for unauthorized access, analyzing security threats, and implementing defensive measures to keep data secure.
 
-Honestly the job I would prefer would be the HEB digital because it seems less stressfull and good pay. The minimium is 2 years which is great because then I can get to work quicker and that means money which then I can buy my car. This is only plan c if my first careers dont end up. I like computers and I want to get into codng because it seems fun and very cool because behind every game there is a code which me being a gamer allows me to play freely. Im intrigued on how everything we use digitally there is a foundation of codes allowing us to press options. 
+## Paragraph: Honestly the job I would prefer would be the HEB digital because it seems less stressfull and good pay. The minimium is 2 years which is great because then I can get to work quicker and that means money which then I can buy my car. This is only plan c if my first careers dont end up. I like computers and I want to get into codng because it seems fun and very cool because behind every game there is a code which me being a gamer allows me to play freely. Im intrigued on how everything we use digitally there is a foundation of codes allowing us to press options. 
