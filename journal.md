@@ -164,3 +164,21 @@ What is one habit—related to hygiene, communication, or behavior—you can imp
 3. Loved the half time show but one thing that caught me offguard was lady gaga. 
 # February 23, 2026 
 The technology that had the biggest impact was the high-speed timing systems because it ensured the fairness and performance of each player. Such for snowboarding this allows each altethic to record their time efficiently. This technology improved the sport by eliminating human error by transitioning to technology. 
+# March 2, 2026
+Job #1
+Company: H-E-B Digital
+Job Title: Software Engineer II 
+Education Required: Bachelor's degree in Computer Science or a related field (or equivalent experience).
+Experience Required: 2+ years of professional software development experience.
+Skills / Tools / Languages: Java, Python, Go, Microservices (RESTful APIs), SQL/NoSQL, and Cloud platforms (Google Cloud Platform or AWS).
+Certifications (if any): None required, but cloud certifications (GCP) are a plus.
+What the job does: This role builds and maintains the scalable backend systems that power the H-E-B mobile app and website, ensuring customers can order groceries and manage coupons seamlessly. 
+Job #2
+Company: Booz Allen Hamilton
+Job Title: Cybersecurity Analyst 
+Education Required: Bachelor’s degree in Cybersecurity, IT, or a related technical field.
+Experience Required: 1–3 years of experience in IT or cybersecurity operations.
+Skills / Tools / Languages: Network security monitoring, Wireshark, Splunk, Linux command line, and vulnerability assessment tools.
+Certifications (if any): CompTIA Security+ (Required for DoD 8570 compliance).
+What the job does: This position protects government and defense networks by monitoring for unauthorized access, analyzing security threats, and implementing defensive measures to keep data secure.
+Honestly the job I would prefer would be the HEB digital because it seems less stressfull and good pay. The minimium is 2 years which is great because then I can get to work quicker and that means money which then I can buy my car. This is only plan c if my first careers dont end up. I like computers and I want to get into codng because it seems fun and very cool because behind every game there is a code which me being a gamer allows me to play freely. 
